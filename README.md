@@ -1,6 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reirualluap/RemoveBG/blob/main/RemoveBG.ipynb])
-
-# RemoveBG
+# RemoveBG [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reirualluap/RemoveBG/blob/main/RemoveBG.ipynb])
 Remove backgroup from multiple images in a few
 
 # Require : 
